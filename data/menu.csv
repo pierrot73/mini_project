@@ -1,0 +1,117 @@
+item_id,name,category,price
+FOOD-004,1664,Bières,25.0
+FOOD-009,BiÃ¨re Pression,Bières,
+FOOD-005,Desperados,Bières,33.0
+FOOD-006,Guiness,Bières,33.0
+FOOD-002,Heineken,Bières,25.0
+FOOD-011,IPA,Bières,50.0
+FOOD-001,Item,Bières,
+FOOD-010,Item,Bières,
+FOOD-007,Jupiler,Bières,25.0
+FOOD-013,Jupiler,Bières,50.0
+FOOD-003,Leffe,Bières,33.0
+FOOD-012,Leffe,Bières,50.0
+FOOD-008,Mutzig,Bières,33.0
+DRINK-019,Baileys,Cocktails,10.0
+DRINK-028,Black Label,Cocktails,5.0
+DRINK-010,Cosmopolitan,Cocktails,
+DRINK-008,Cuba Libre,Cocktails,
+DRINK-003,Daiquiri,Cocktails,
+DRINK-030,Damoiseau,Cocktails,5.0
+DRINK-014,Double Shots,Cocktails,
+DRINK-027,Get 27,Cocktails,5.0
+DRINK-024,Gibsonâ€™s Gin,Cocktails,4.0
+DRINK-013,Gin Tonic,Cocktails,
+DRINK-022,Hennessy,Cocktails,7.0
+DRINK-023,Henricks Gin,Cocktails,7.0
+DRINK-001,Item,Cocktails,
+DRINK-015,Item,Cocktails,
+DRINK-021,Item,Cocktails,
+DRINK-029,Jack Danielâ€™s,Cocktails,5.0
+DRINK-026,Jagermeister,Cocktails,5.0
+DRINK-005,Margarita,Cocktails,
+DRINK-002,Mojito,Cocktails,
+DRINK-006,Old Fashioned,Cocktails,
+DRINK-007,Pina Colada,Cocktails,
+DRINK-009,Pornstar Martini,Cocktails,
+DRINK-004,Punch,Cocktails,
+DRINK-018,Rhum,Cocktails,10.0
+DRINK-020,SHOTS,Cocktails,
+DRINK-012,Sex On The Beach,Cocktails,
+DRINK-025,Tequila SanjosÃ©,Cocktails,4.0
+DRINK-017,Vodka,Cocktails,10.0
+DRINK-016,Whisky,Cocktails,10.0
+DRINK-011,Whisky Coca,Cocktails,
+FOOD-029,ACCOMPAGNEMENTS,Restaurant,
+FOOD-034,Aloko,Restaurant,4.0
+FOOD-022,Aloko (Poulet ou Poisson),Restaurant,
+FOOD-037,Attieke,Restaurant,5.0
+FOOD-024,Attieke (Poulet ou Poisson),Restaurant,
+FOOD-031,Bananes Frites,Restaurant,10.0
+FOOD-033,Bugari,Restaurant,4.0
+FOOD-027,Mafe,Restaurant,
+FOOD-014,Name,Restaurant,
+FOOD-019,Name,Restaurant,
+FOOD-030,Name,Restaurant,
+FOOD-016,Pastel,Restaurant,
+FOOD-023,Poisson BraisÃ©,Restaurant,
+FOOD-036,Pomme de terre,Restaurant,3.0
+FOOD-035,Riz,Restaurant,4.0
+FOOD-038,Riz Rouge,Restaurant,5.0
+FOOD-017,Salade de Gesiers,Restaurant,
+FOOD-015,Sambusa,Restaurant,
+FOOD-025,Saucisson,Restaurant,
+FOOD-026,Soupe de Kandia(Sauce de Gombo),Restaurant,
+FOOD-020,Tchiep(Poulet ou Poisson),Restaurant,
+FOOD-018,WEST AFRICA PLATS,Restaurant,
+FOOD-021,Yassa Poulet,Restaurant,
+FOOD-032,les frites,Restaurant,3.0
+FOOD-028,nan,Restaurant,
+DRINK-040,Bissap,Soft Drinks,3.5
+DRINK-050,Boissons Chaud,Soft Drinks,
+DRINK-054,Café AllongÃ©,Soft Drinks,1.2
+DRINK-055,Café Creme,Soft Drinks,2.5
+DRINK-056,Cappuccino,Soft Drinks,3.2
+DRINK-058,Chocolat Chaud,Soft Drinks,3.5
+DRINK-032,Coca Cola,Soft Drinks,3.5
+DRINK-033,Coca Zero,Soft Drinks,3.5
+DRINK-053,Double Expresso,Soft Drinks,2.4
+DRINK-052,Expresso,Soft Drinks,1.2
+DRINK-041,Gingembre,Soft Drinks,3.5
+DRINK-062,Infusion Fruits Rouges,Soft Drinks,3.5
+DRINK-031,Item,Soft Drinks,
+DRINK-045,Item,Soft Drinks,
+DRINK-051,Item,Soft Drinks,
+DRINK-035,Jus de Bouye,Soft Drinks,3.5
+DRINK-034,Jus de Pomme,Soft Drinks,3.5
+DRINK-037,Jus dâ€™Ananas,Soft Drinks,3.5
+DRINK-036,Jus dâ€™Orange,Soft Drinks,3.5
+DRINK-057,Latte Macchiato,Soft Drinks,3.2
+DRINK-044,Mocktails,Soft Drinks,
+DRINK-042,Oasis,Soft Drinks,3.5
+DRINK-039,Perrier,Soft Drinks,2.0
+DRINK-043,Redbull,Soft Drinks,3.5
+DRINK-060,ThÃ© Noir,Soft Drinks,3.0
+DRINK-059,ThÃ© Vert,Soft Drinks,3.0
+DRINK-061,ThÃ© aux Agrumes,Soft Drinks,3.0
+DRINK-038,Tonic,Soft Drinks,3.5
+DRINK-046,Virgin Mojito,Soft Drinks,
+DRINK-047,Virgin Pina Colada,Soft Drinks,
+DRINK-049,Virgin Sunset,Soft Drinks,
+DRINK-048,Virgin Tropico,Soft Drinks,
+"DRINK-066,Brouilly,""Wines,Champagne"",5.0"
+"DRINK-067,Cellier des Dauphins (CÃ´tes du RhÃ´ne),""Wines,Champagne"",45.0"
+"DRINK-077,Champagne,""Wines,Champagne"","
+"DRINK-072,Chardonnay (Bourgogne),""Wines,Champagne"",45.0"
+"DRINK-065,ChÃ¢teau Lambersac 2019 (Puisseguin Saint Emilion),""Wines,Champagne"",32.0"
+"DRINK-071,ChÃ¢teau Pierron (Blanc moelleux),""Wines,Champagne"",45.0"
+"DRINK-075,""CrÃ©mant de Bordeaux (Ballarin Black Pearl Brut, Blanc de blancs)"",""Wines,Champagne"",30.0"
+"DRINK-076,CrÃ©mant dâ€™Alsace (Demi-sec),""Wines,Champagne"",25.0"
+"DRINK-078,G.H. Mumm (Brut),""Wines,Champagne"",70.0"
+"DRINK-063,Item,""Wines,Champagne"","
+"DRINK-069,La SantonniÃ¨re RosÃ© (CÃ´te de province Bio),""Wines,Champagne"",5.0"
+"DRINK-064,Mouton Cadet 2016 (Bordeaux),""Wines,Champagne"",30.0"
+"DRINK-068,RosÃ©,""Wines,Champagne"","
+"DRINK-073,Sauvignon (Roche Mazet Pays dâ€™Oc),""Wines,Champagne"",45.0"
+"DRINK-070,Vins Blancs,""Wines,Champagne"","
+"DRINK-074,Vins PÃ©tillants,""Wines,Champagne"","
